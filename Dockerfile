@@ -18,5 +18,5 @@ COPY . .
 EXPOSE 3000
 
 # Запуск приложения
-CMD [ "node", "server.js" ]
+CMD [ "node", "index.js" ]
 
